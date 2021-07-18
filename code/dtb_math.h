@@ -236,7 +236,6 @@ dtbV2 dtbVec2_Dividef(dtbV2 left, float right)
 	return result;
 }
 
-
 // NOTE(DILLON): Vector 3's
 dtbV3 dtbVec3(float x, float y, float z)
 {
